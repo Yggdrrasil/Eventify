@@ -1,6 +1,6 @@
 # Aplicacion de Gestion de Eventos
 
-Este ha sido mi TFG para el grado de aplicaciones WEB
+Este ha sido mi TFG para el grado de aplicaciones Web
 
 ## Captura de Pantalla
 
